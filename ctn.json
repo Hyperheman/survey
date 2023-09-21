@@ -1,0 +1,10 @@
+{
+    "yes": {
+        "count": 10,
+        "names": ["John", "Alice", "Bob"]
+    },
+    "no": {
+        "count": 5,
+        "names": ["Eve", "Michael"]
+    }
+}
